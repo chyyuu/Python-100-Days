@@ -12,9 +12,13 @@
 4. [《Python - 100天从新手到大师》](https://github.com/jackfrued/Python-100-Days) - 我自己在 GitHub 分享的 Python 学习项目
 5. [《Python 3教程》](https://www.runoob.com/python3/python3-tutorial.html)- 菜鸟教程上的 Python 课程，上面还有很多其他学习资源
 6. [《Python教程》](https://liaoxuefeng.com/books/python/introduction/index.html)- 廖雪峰个人网站上的 Python 课程，上面还有一些其他学习资源
+7. 想刷题/考试：[Python123](https://python123.io/)
 
 #### 视频教程
 
+0. 【北京理工大学】Python语言程序设计 嵩天（全56讲）
+ - https://www.bilibili.com/video/BV1JL4y1x7xC/ 
+ - https://www.icourse163.org/course/BIT-268001 
 1. [《从零开始学Python》](https://space.bilibili.com/1177252794/lists/1222205)- 我自己分享在 Bilibili 的 Python 入门视频
 2. [《快速上手Python语言》](https://www.zhihu.com/education/video-course/1491848366791700480)- 在知乎知学堂上传的一套之前讲课的随堂视频
 3. [《Python进阶课程》](https://space.bilibili.com/1177252794/lists/4128173)- 我自己分享在 Bilibili 的 Python 进阶随堂视频
